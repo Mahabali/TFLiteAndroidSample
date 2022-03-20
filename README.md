@@ -6,9 +6,9 @@ This is a simple tutorial for implementing machine learning with custom model in
 ## Repos
   Simple TensorFlow Model for computing y= 2x+1. There are 3 repos
   
-	1. [Tensorflow model](https://github.com/Mahabali/TensorFlowForMobile)
-	2. [TensorflowLite Model for Android](https://github.com/Mahabali/TFLiteAndroidSample). 
-	3. [CoreML model for iOS (using CoreML tools)](https://github.com/Mahabali/CoreMLSampleiOS)
+1. [Tensorflow model](https://github.com/Mahabali/TensorFlowForMobile)
+2. [TensorflowLite Model for Android](https://github.com/Mahabali/TFLiteAndroidSample). 
+3. [CoreML model for iOS (using CoreML tools)](https://github.com/Mahabali/CoreMLSampleiOS)
 
 ## Model Info
 
