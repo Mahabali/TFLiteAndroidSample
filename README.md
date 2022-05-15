@@ -33,3 +33,9 @@ Alternatively, I have included my training model in this repo and so you can do 
 
 ## Screenshot
 ![Screenshot](https://github.com/Mahabali/TFLiteAndroidSample/blob/main/Screenshot.png)
+
+### My Product
+[whichidiot.com](https://whichidiot.com)
+
+### My consulting site
+[okchanges.com](https://okchanges.com)
